@@ -12,7 +12,7 @@ A clean PyTorch implementation of a Deep Convolutional GAN (DCGAN) that learns t
 The same 64 noise vectors are rendered after every epoch, from the untrained generator (Epoch 0) to the final epoch (Epoch 30).
 
 <p align="center">
-  <gif src="assets/generation_progress.gif" alt="Generation progress from noise to anime faces" width="520">
+  <img src="assets/generation_progress.gif" alt="Generation progress from noise to anime faces" width="520">
 </p>
 
 > GAN losses do not measure image quality on their own, so the results are evaluated visually. No quantitative metric such as FID is reported.
