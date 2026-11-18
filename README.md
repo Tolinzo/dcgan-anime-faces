@@ -1,6 +1,6 @@
 # DCGAN for Anime Face Generation
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/dcgan-anime-faces/blob/main/notebooks/dcgan_anime_faces.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tolinzo/dcgan-anime-faces/blob/main/notebooks/dcgan_anime_faces.ipynb)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.x-ee4c2c)
 ![License](https://img.shields.io/badge/license-MIT-green)
@@ -28,7 +28,7 @@ The same 64 noise vectors are rendered after every epoch, from the untrained gen
 **Local**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/dcgan-anime-faces.git
+git clone https://github.com/Tolinzo/dcgan-anime-faces.git
 cd dcgan-anime-faces
 pip install -r requirements.txt
 jupyter notebook notebooks/dcgan_anime_faces.ipynb
